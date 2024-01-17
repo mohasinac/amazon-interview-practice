@@ -1,7 +1,6 @@
 # amazon-interview-practice
 
 Day 1
-Basic mathematics and computer science basics
     - analysis of algorithms
     - mathematics
     - bitwise operators
